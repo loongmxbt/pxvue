@@ -1,0 +1,24 @@
+v2.
+{<<"/Users/loongmxbt/Github/phoenix/pxvue/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.Socket.beam">>,
+ 'Elixir.Phoenix.LiveReloader.Socket',module,
+ <<"lib/phoenix_live_reload/socket.ex">>,
+ ['Elixir.Phoenix.Transports.LongPoll','Elixir.Phoenix.Socket',
+  'Elixir.Phoenix.Transports.WebSocket','Elixir.Module','Elixir.Kernel',
+  'Elixir.Phoenix'],
+ [],[],nil}.
+{<<"/Users/loongmxbt/Github/phoenix/pxvue/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReload.Channel.beam">>,
+ 'Elixir.Phoenix.LiveReload.Channel',module,
+ <<"lib/phoenix_live_reload/channel.ex">>,
+ ['Elixir.Phoenix.Channel','Elixir.Phoenix.Socket','Elixir.Logger',
+  'Elixir.Module','Elixir.Kernel'],
+ ['Elixir.Application','Elixir.String.Chars','Elixir.Access',fs,erlang,
+  'Elixir.String','Elixir.Enum','Elixir.Path'],
+ [],nil}.
+{<<"/Users/loongmxbt/Github/phoenix/pxvue/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.beam">>,
+ 'Elixir.Phoenix.LiveReloader',module,
+ <<"lib/phoenix_live_reload/live_reloader.ex">>,
+ ['Elixir.Application','Elixir.File','Elixir.Module','Elixir.Plug',
+  'Elixir.Kernel','Elixir.Plug.Conn'],
+ ['Elixir.String.Chars','Elixir.Map','Elixir.Access',erlang,'Elixir.String',
+  'Elixir.Enum'],
+ [],nil}.

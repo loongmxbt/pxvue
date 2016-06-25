@@ -1,0 +1,10 @@
+v2.
+{<<"/Users/loongmxbt/Github/phoenix/pxvue/_build/dev/lib/connection/ebin/Elixir.Connection.beam">>,
+ 'Elixir.Connection',module,<<"lib/connection.ex">>,
+ ['Elixir.String.Chars','Elixir.List','Elixir.Protocol',
+  'Elixir.Kernel.Typespec','Elixir.GenServer','Elixir.Module',erlang,
+  'Elixir.Kernel.Utils','Elixir.Behaviour','Elixir.Kernel','Elixir.Keyword',
+  'Elixir.ArgumentError'],
+ [gen_server,'Elixir.System','Elixir.Process',code,error_logger,'Elixir.Code',
+  gen,proc_lib,global],
+ [],nil}.
